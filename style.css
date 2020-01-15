@@ -1,0 +1,41 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+input[type=text] {
+    background-color: rgb(158, 224, 191);
+    text-align: center;
+    width: 50px;
+    border-style: none;
+    border-radius: 2%;
+}
+
+input[type=Button] {
+    background-color: rgb(158, 224, 191);
+    border-style: none;
+    text-align: center;
+    border-radius: 2%;
+}
+
+#opr {
+    background-color: rgb(158, 224, 191);
+    border-color: rgb(188, 220, 228);
+    background-color: whitesmoke;
+    border-radius: 2%;
+    border-style: none;
+    text-align: center;
+}
+
+#forma {
+    background-color: whitesmoke;
+    margin: 0 37%;
+    border-radius: 5%;
+}
+
+h2 {
+    padding-top: 10px;
+}
